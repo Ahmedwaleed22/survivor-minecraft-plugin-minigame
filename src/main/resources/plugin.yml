@@ -1,0 +1,4 @@
+name: Survivor
+version: ${project.version}
+main: cof.survivor.Survivor
+api-version: 1.18
